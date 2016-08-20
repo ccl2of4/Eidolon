@@ -1,4 +1,4 @@
-# mods and config folder for Eidolon
+# Setup/configuration for Eidolon
 
 To create symlinks
 
