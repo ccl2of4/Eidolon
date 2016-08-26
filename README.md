@@ -24,4 +24,9 @@ Create symlinks
 * `ln -s path-to-repo/mods path-to-mc-folder/mods`
 * `ln -s path-to-repo/config path-to-mc-folder/config`
 
+Windows (requires running as admin, I think)
+
+* `mklink /d path-to-mc-folder/mods path-to-repo/mpds`
+* `mklink /d path-to-mc-folder/config path-to-repo/config`
+
 Now you can just use `git pull` to get your mods and config up-to-date.
